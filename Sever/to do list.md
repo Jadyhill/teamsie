@@ -7,7 +7,7 @@ Important:
 
 Feature:
 ---------
-- Change Website Framework to boostrap
+- Change Website Framework to bootstrap
 
 ***
 <div align = center><img width="150" height="150" src="https://cloud.githubusercontent.com/assets/12566988/22813111/00fde6a0-ef84-11e6-93bb-5c5318db20ec.jpg"></div>

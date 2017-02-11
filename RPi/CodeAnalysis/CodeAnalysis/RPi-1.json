@@ -1,0 +1,14 @@
+{
+     "1":{
+          "Room Number":12,
+          "Device Type Name":"electricity consumption",
+          "Serial Number":8,
+          "Data":3.5
+          },
+     "2":{
+          "Room Number":3,
+          "Device Type Name":"light intensity(inside)",
+          "Serial Number":5,
+          "Data":0.51
+          }
+}

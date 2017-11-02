@@ -62,7 +62,7 @@ SIE是[我们大学](http://www.sie.edu.cn/)的缩写 : **Shenyang Institute of 
 --------------------
 查看[提交代码](https://help.github.com/articles/about-pull-requests/) 这个页面来了解如何在GitHub上帮助我们完善这个代码库，欢迎贡献代码和批评指教。
 ***
-<div align = center><img width="150" height="150" src="https://cloud.githubusercontent.com/assets/12566988/22813111/00fde6a0-ef84-11e6-93bb-5c5318db20ec.jpg"></div>
+<div align = center><img width="150" height="150" src="http://oyrqaw6tr.bkt.clouddn.com/%E5%9B%A2%E9%98%9Flogo.png"></div>
 
 <div align = center>Team SIE软件工程小组 敬上</div>
 <br />
